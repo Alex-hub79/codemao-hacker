@@ -1,0 +1,9 @@
+{
+  "Box3(神奇代码岛)": [
+    {
+      "label": "通过hash获得文件",
+      "modulePath": "box3/get-file-by-hash"
+    }
+  ],
+  "编程猫论坛": []
+}
